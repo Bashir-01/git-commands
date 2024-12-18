@@ -1,0 +1,13 @@
+git clone <url> => clone the repository to our local workspace
+
+git status => check whether git is initialized in current directory
+
+git add <filename> => Add the file to staging area(to perform commit and push)
+
+git add . => add all the files in current directory to staging area
+
+git commit -m "message" => To commit the changes 
+
+git push -u origin main => to push the committed file to the global workspace
+
+git init => To intialize git in a directory
